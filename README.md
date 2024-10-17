@@ -99,3 +99,8 @@ Running the Project
 
 npm run dev
 Open http://localhost:3000 in your browser to view the project.
+
+
+
+
+https://www.figma.com/design/kWioE0fyIqd6pbWIZfOcEM/Healthcare-System?node-id=13001-668&node-type=frame
